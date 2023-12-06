@@ -13,4 +13,4 @@ Realizar análises exploratórias de dados em variados Datasets
 
 ## Datasets Explorados
 * [World Happiness Report (Relatório Mundial da Felicidade) - Kaggle](https://github.com/Mihvieira/eda/blob/main/Eda_world_happiness.ipynb)
-* Acervo da biblioteca da UFRN - #7DaysOfCode - Python Pandas - Alura
+* [Acervo da biblioteca da UFRN - #7DaysOfCode - Python Pandas - Alura](https://github.com/Mihvieira/eda/blob/main/AcervoUFRN.ipynb)
