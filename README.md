@@ -12,5 +12,5 @@ Realizar análises exploratórias de dados em variados Datasets
 * Google Colab
 
 ## Datasets Explorados
-* World Happiness Report (Relatório Mundial da Felicidade) - Kaggle
+* [World Happiness Report (Relatório Mundial da Felicidade) - Kaggle](https://github.com/Mihvieira/eda/blob/main/Eda_world_happiness.ipynb)
 * Acervo da biblioteca da UFRN - #7DaysOfCode - Python Pandas - Alura
