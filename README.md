@@ -1,6 +1,6 @@
 # EDA - EXPLORATORY DATA ANALYSIS / AED - Análises exploratórias de dados
 
-## Objetivo
+## Objective / Objetivo
 Realizar análises exploratórias de dados em variados Datasets
 
 ## Tecnologia aplicada
